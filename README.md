@@ -6,18 +6,18 @@
 
 ![image](https://github.com/user-attachments/assets/131839fc-9ef0-4228-b6de-c7022bfc1b08)
 
-_Dica! Os elementos dentro do container devem estar FLEXíveis;_
+Resultado da minha atividade:
 
-1. Alinhados junto a borda de início;
-2. Alinhados junto a borda final;
-3. Centralizados na linha;
-4. Distribuir os itens de forma igual ao longo da linha, o primeiro item junto a borda inicial da linha, o último junto a borda final da linha;
-5. Distribuir os itens na linha com o mesmo espaçamento ao redor dele.
-6. Distribuir os itens de forma que o espaçamento entre quaisquer dos itens da linha seja igual.
+<img width="1891" height="860" alt="image" src="https://github.com/user-attachments/assets/109e382e-22a0-480a-bd1e-78d3432e7a33" />
 
 ### B) Estilize a div com classe "container-exercicioB" para que fique como abaixo:
 
 ![image (1)](https://github.com/user-attachments/assets/dd696227-2417-465e-af42-41ef2706c3a6)
+
+Resultado:
+
+<img width="1876" height="519" alt="image" src="https://github.com/user-attachments/assets/9a0fd6f0-7305-47c0-af29-903d698f6754" />
+
 
 ### Desafio
 
@@ -26,3 +26,9 @@ Levando como exemplo os exercícios A e B, desenvolva a página de forma que seu
 Estilize a div com classe "container-desafio" para que fique como abaixo:
 
 ![image (2)](https://github.com/user-attachments/assets/7a5abae9-38f8-4b65-803f-67de69d8d04b)
+
+
+Resultado:
+
+<img width="1875" height="143" alt="image" src="https://github.com/user-attachments/assets/ad2248f1-24fe-4ce6-b1d5-0e67a330fcdc" />
+
